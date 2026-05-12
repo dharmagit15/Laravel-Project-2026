@@ -21,13 +21,13 @@
                 </a></li>
                 <li>Alamat: Jl. Contoh No. 123, Jakarta, Indonesia</li>
                 <li>Jam Operasional: Senin - Jumat, 09:00 - 17:00 WIB</li>
-                <h3 class ="2xl font-bold mb-4">Media Sosial:</h3>
-                    <div class="list-disc list-inside ml-6 mb-4 flex gap-4">
-                        <a href="#" class="px-4 py-2 bg-green-600 rounded-lg text-white hover:bg-green-400">Facebook</a>
-                        <a href="#" class="px-4 py-2 bg-green-600 rounded-lg text-white hover:bg-green-400">Instagram</a>
-                    </div>
-            
             </ul>
+            
+            <h3 class="text-2xl font-bold mb-4">Media Sosial:</h3>
+            <div class="ml-6 mb-4 flex gap-4">
+                <a href="#" class="px-4 py-2 bg-green-600 rounded-lg text-white hover:bg-green-400">Facebook</a>
+                <a href="#" class="px-4 py-2 bg-green-600 rounded-lg text-white hover:bg-green-400">Instagram</a>
+            </div>
         </main>
 
         @include('partials.footer')

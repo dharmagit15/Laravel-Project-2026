@@ -6,7 +6,7 @@
         <nav class="space-x-6">
             <a href="/Kontak" class="text-gray-700 hover:text-green-600">Kontak</a>
             <a href="/Profil" class="text-gray-700 hover:text-green-600">Profil</a>
-            <a href="/Donasi Sekarang" class="text-gray-700 hover:text-green-600">Donasi Sekarang</a>
+            <a href="/campaigns" class="text-gray-700 hover:text-green-600">Donasi Sekarang</a>
         </nav>
     </div>
 </header>
